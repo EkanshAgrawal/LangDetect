@@ -32,4 +32,4 @@ The dataset has around 10 million+ rows and contains data about 150 languages. W
 # Results #
 The dataset is pre-processed and plotted based on the language it belongs. After that, data is trained and unigram, bigram, up to 10chargram are applied. Then various ML algorithms like Random Forest Classifier, Linear SVC, and Logistic Regression model are applied on the training dataset. Finally, the language of input data is detected. A comparison of the accuracy of different models is also shown. 
 
-By using the hybrid approach, the model performance is enhanced and is expected to achieve language detection accuracy of around 98%.
+By using the hybrid approach, the model performance is enhanced and is expected to achieve language detection accuracy of around 93%.
